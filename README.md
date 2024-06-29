@@ -1,2 +1,2 @@
 # TechVisit
-Projeto de portifólio para conclusão do curso de Engenharia de Software
+Projeto de portfólio para conclusão do curso de Engenharia de Software
